@@ -6,6 +6,7 @@ import RecipeCard from './Components/RecipeCard.js'
 import avacado from './images/AvacadoBlackBean.jpg'
 import bibimpap from './images/bibimpap.jpg'
 import chili from './images/Chili.jpg'
+import cococurry from './images/cococurry.jpg'
 import eggplant from './images/EggplantLasagna.jpg'
 import ench from './images/Enchiladas.jpeg'
 import matcha from './images/MatchaCake.jpg'
@@ -125,6 +126,35 @@ function App() {
         </ol>
       }
       />
+      <RecipeCard recipe="Coconut Curry" src={cococurry}
+      ingredients={
+        <ul>
+          
+          <li>1 Tbsp Curry Powder</li>
+          <li>1 Cup Vegetable Broth</li>
+          <li>2 14oz Can Coconut Milk</li>
+          <li>Broccoli</li>
+          <li>Snow Peas</li>
+          <li>Carrots</li>
+          <li>Red Peppers</li>
+          <li>1 Can Chickpeas</li>
+          <li>1 Tbsp coconut oil</li>
+          <li>1 Tbsp grated ginger</li>
+          <li>1 White Onion</li>
+          <li>4 Cloves Garlic</li>
+          <li>Salt and Pepper</li>
+      </ul>
+      }
+      directions={
+        <ol>
+          <li>Prepare rice or quiona.</li>
+          <li>Add onions and coconut oil in pan and saute onions.</li>
+          <li>Add in vegetables and heat covered until softened.</li>
+          <li>Add curry powder, grated ginger, coconut milk, and spices, and bring to simmer..</li>
+          <li>Serve over rice or quiona.</li>
+        </ol>
+      }
+      />
       <RecipeCard recipe="Eggplant Lasagna" src={eggplant}
       ingredients={
         <ul>
@@ -135,7 +165,6 @@ function App() {
           <li>1 Tbsp Salt</li>
           <li>1 Tbsp Ground Pepper</li>
           <li>1 Tbsp Oregano</li>
-          <li>1 Tbsp</li>
           <li>1 bag of shredded mozzarella cheese</li>
       </ul>
       }
