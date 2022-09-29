@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/cooks/static/css/main.8c7e966f.css",
-    "main.js": "/cooks/static/js/main.63abc1c5.js",
+    "main.css": "/cooks/static/css/main.ba055aad.css",
+    "main.js": "/cooks/static/js/main.a258e741.js",
     "static/media/redwne.jpg": "/cooks/static/media/redwne.3b5cc255260e98e784e2.jpg",
-    "static/media/background.jpg": "/cooks/static/media/background.cd1b3367b25a86a8c65e.jpg",
     "static/media/pesto.jpg": "/cooks/static/media/pesto.3e3661a1ced7c6c9676d.jpg",
     "static/media/Chili.jpg": "/cooks/static/media/Chili.95f3bd37d77ba4078f2e.jpg",
     "static/media/bibimpap.jpg": "/cooks/static/media/bibimpap.10a949afc8306ad8d607.jpg",
@@ -16,15 +15,17 @@
     "static/media/AvacadoBlackBean.jpg": "/cooks/static/media/AvacadoBlackBean.4f1e9fe11cb1842f8a39.jpg",
     "static/media/SpanishRice.jpg": "/cooks/static/media/SpanishRice.c49bef0e2981ce3369ba.jpg",
     "static/media/pancake.jpg": "/cooks/static/media/pancake.0cd1be54bec2dc63253d.jpg",
+    "static/media/tomatosoup.jpg": "/cooks/static/media/tomatosoup.559d281dd31b5b094ab0.jpg",
+    "static/media/carrot.jpg": "/cooks/static/media/carrot.64dd7b2e39d1b131ffa9.jpg",
     "static/media/Sundried.jpeg": "/cooks/static/media/Sundried.4f196235728bea729b6d.jpeg",
     "static/media/MatchaCake.jpg": "/cooks/static/media/MatchaCake.a34b5e3091264e279384.jpg",
     "static/media/EggplantLasagna.jpg": "/cooks/static/media/EggplantLasagna.56c8f5c78e0329fc1cbc.jpg",
     "index.html": "/cooks/index.html",
-    "main.8c7e966f.css.map": "/cooks/static/css/main.8c7e966f.css.map",
-    "main.63abc1c5.js.map": "/cooks/static/js/main.63abc1c5.js.map"
+    "main.ba055aad.css.map": "/cooks/static/css/main.ba055aad.css.map",
+    "main.a258e741.js.map": "/cooks/static/js/main.a258e741.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c7e966f.css",
-    "static/js/main.63abc1c5.js"
+    "static/css/main.ba055aad.css",
+    "static/js/main.a258e741.js"
   ]
 }
